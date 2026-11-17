@@ -1,0 +1,12 @@
+Patient_ID,Department,Recovery_Score
+P209,Paediatrics,94.0
+P217,Paediatrics,92.0
+P206,Paediatrics,91.0
+P213,Paediatrics,89.0
+P204,Cardiology,88.0
+P216,Orthopaedics,87.0
+P208,Cardiology,85.0
+P214,Neurology,83.0
+P201,Cardiology,82.0
+P211,Cardiology,81.0
+P220,Orthopaedics,80.0

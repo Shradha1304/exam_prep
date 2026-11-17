@@ -1,0 +1,24 @@
+Student_ID,Course,Attendance_Percentage,Study_Hours
+S101,Data Science,85.0,12.0
+S102,Computing,72.0,8.0
+S103,Data Science,95.0,18.0
+S104,Cyber Security,60.0,6.0
+S105,Computing,88.0,15.0
+S106,Data Science,91.0,16.0
+S107,Cyber Security,77.0,10.0
+S108,Computing,69.0,7.0
+S109,Data Science,82.0,11.0
+S110,Cyber Security,93.0,17.0
+S111,Computing,80.0,13.0
+S112,Data Science,,14.0
+S113,Cyber Security,74.0,
+S114,Computing,90.0,19.0
+S115,Data Science,68.0,9.0
+S116,Cyber Security,86.0,12.0
+S117,Computing,78.0,10.0
+S118,Data Science,97.0,20.0
+S119,Cyber Security,83.0,11.0
+S120,Computing,75.0,8.0
+S103,Data Science,95.0,18.0
+S107,Cyber Security,77.0,10.0
+S112,Data Science,,14.0
