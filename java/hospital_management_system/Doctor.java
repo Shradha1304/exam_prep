@@ -1,3 +1,4 @@
+package hospital_management_system;
 import java.util.ArrayList;
 
 public class Doctor {

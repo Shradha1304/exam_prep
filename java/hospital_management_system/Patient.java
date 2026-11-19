@@ -1,3 +1,4 @@
+package hospital_management_system;
 import java.util.Objects;
 
 class Patient{
